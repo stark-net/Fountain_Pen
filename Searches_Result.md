@@ -1,16 +1,16 @@
-** Kaweco Dia2 **
+**Kaweco Dia2**
 
-** Platinium 3776 **
+**Platinium 3776**
 
-** TWSBI Eco **
+**TWSBI Eco**
 
 Lamy 2000  
 
-** TWSBI Eco-T **
+**TWSBI Eco-T**
 
 Monteverde MP1  
 
-** TWSBI Diamond 580 **
+**TWSBI Diamond 580**
 
 Pilot Custom 823  
 
@@ -22,7 +22,7 @@ Sailor 1911
 
 Pelikan 805  
 
-** Pelikan M200 **
+**Pelikan M200**
 
 Pelikan M600  
 
@@ -30,4 +30,4 @@ Aurora 88
 
 Pilot Falcon  
 
-** Pilot Custom Heritage 912 **
+**Pilot Custom Heritage 912**
