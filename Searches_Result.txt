@@ -5,13 +5,13 @@ Lamy 2000
 TWSBI Eco-T
 Monteverde MP1
 TWSBI Diamond 580
-Pilot Custom 823
+Pilot Custom 823  X
 Pilot E95S
-Sailor KoP
-Sailor 1911
-Pelikan 805
+Sailor KoP  X
+Sailor 1911  X
+Pelikan 805  X
 Pelikan M200
-Pelikan M600
-Aurora 88
+Pelikan M600  X
+Aurora 88  X
 Pilot Falcon
 Pilot Custom Heritage 912
